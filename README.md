@@ -1,1 +1,1 @@
-# Foody Search: A Recommender Application of Famous Eatery and Coffee Shops in Bauan, Batangas
+# Hire Me: A Job Hiring Application of Different Eateries in Bauan, Batangas
